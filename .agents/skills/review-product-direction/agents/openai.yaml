@@ -1,0 +1,4 @@
+interface:
+  display_name: "제품 방향 검토"
+  short_description: "기능 요청의 문제·가치·범위·가정과 결정 항목을 검토합니다"
+  default_prompt: "$review-product-direction을 사용해 이 기능의 제품 방향과 1차 검증 범위를 검토해 주세요."

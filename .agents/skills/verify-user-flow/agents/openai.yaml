@@ -1,0 +1,4 @@
+interface:
+  display_name: "사용자 흐름 검증"
+  short_description: "사용자 흐름의 시나리오·실행 결과·재현 조건과 잔여 위험을 검증합니다"
+  default_prompt: "$verify-user-flow를 사용해 이 기능의 핵심 사용자 흐름과 예외를 검증해 주세요."

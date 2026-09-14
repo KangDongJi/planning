@@ -1,0 +1,4 @@
+interface:
+  display_name: "기술 계획 검토"
+  short_description: "구현 전 구조·데이터 흐름·실패 경로와 테스트 기준을 검토합니다"
+  default_prompt: "$review-engineering-plan을 사용해 이 기능의 기술 계획과 착수 조건을 검토해 주세요."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "코드 변경 검토"
+  short_description: "코드 변경의 결함·회귀·누락·운영 위험을 근거 중심으로 검토합니다"
+  default_prompt: "$review-code-change를 사용해 이 변경의 결함과 회귀 위험을 검토해 주세요."
