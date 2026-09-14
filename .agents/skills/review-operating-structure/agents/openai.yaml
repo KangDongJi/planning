@@ -1,0 +1,4 @@
+interface:
+  display_name: "운영 구조 검토"
+  short_description: "역할·승인·플레이북·스킬의 중복과 충돌을 읽기 전용으로 검토합니다"
+  default_prompt: "$review-operating-structure을 사용해 운영 문서와 스킬의 중복·충돌·누락을 검토하고 보완안을 제시해 주세요."
